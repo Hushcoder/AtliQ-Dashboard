@@ -1,6 +1,4 @@
-# 📊 AtliQ Hardware Sales Dashboard
-# Project Title
-AtliQ Hardware Sales Performance Dashboard (2017–2020)
+# 📊 AtliQ Hardware Sales Performance Dashboard (2017–2020)
 
 # Description of the Project
 This interactive Tableau dashboard provides a comprehensive analysis of AtliQ Hardware's sales performance across various Indian markets from 2017 to 2020. It highlights key performance indicators such as total revenue, sales quantity, market-wise breakdown, customer contributions, monthly and yearly revenue trends, and product-level insights. The dashboard is designed to help decision-makers quickly identify high-performing regions, top customers and products, and revenue fluctuations over time.
